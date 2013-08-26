@@ -1,0 +1,97 @@
+.site-header {
+    text-align:center;
+    color:#5F9EA0;
+  
+  
+  }
+  .site-header .logo{
+    text-decoration:none;
+    color:#C0C0C0;
+    font-size:50px;
+    font-weight:medium;
+    font-family:Helvetica,Helvetica Neue,Arial;
+  }
+  .menu a {
+    color:#000000;
+    height:10px;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    padding:0px;
+    display:block;
+    width:120px;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:none;
+    text-align:center;
+    padding:4px;
+    border-radius:5px;
+    text-decoration:none;
+    float:left;
+    display:block;
+
+    font-size:13px;
+    font-family:Helvetica Neue,Arial;
+    text-decoration:none;
+    display:inline;
+
+
+    left:40px;
+
+    background-color:none;
+
+    border-style:none;
+    border-width:none;
+
+    }
+    .menu a:hover{
+    background-color:none;
+    color:#8A2BE2;
+
+    }
+    .upload{
+    position:absolute;
+    bottom:-400px;
+    left:4px;
+    margin:0px;
+    padding:0px;
+
+    background-color:none;
+    color:#8A2BE2;
+    border:none;
+    padding:8px 35px 8px 14px;
+    font-size:13px;
+    text-align:bottom,center;
+
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    }
+    .upload a {
+    text-decoration:none;
+    color:#FF0099;
+  }
+  .upload a:hover{
+    text-decoration:underline;
+    color:#8A2BE2;
+  
+  }
+  body {
+    background: url(mac.jpg); 
+  }
+  .input
+  {
+    border:1px solid #006;
+    background:#ff6;
+  }
+  .inpout:hover{
+  
+    background:#8A2BE2;
+  
+  }
+  .button:hover
+  {
+    border:none;
+    background:url(background.jpg) no repeat;
+    padding:2px 8px;
+  }

@@ -1,0 +1,11 @@
+0.  TODO
+implement a hash table
+1.  implement check
+2.  implement load
+3.  implement unload
+4.  implemet size
+5.  should show runtime
+6.  should show mispelled words
+7.  should show corrrect words
+8.  
+9.  
